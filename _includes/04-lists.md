@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Finally soving the keyboard issue
+2. using a Mac keyboard
+* Easier than typing using the screen keyboard
